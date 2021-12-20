@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=chronoscrat&color=orange)
 # Olá!
 
 Eu me chamo Nathanael Rolim (em algumas comunidades virtuais vou pelo handler de ChronoScrat). Sou estudante de Relações Internacionais na Universidade de São Paulo (USP), com
