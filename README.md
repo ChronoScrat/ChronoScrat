@@ -1,15 +1,19 @@
-![](https://komarev.com/ghpvc/?username=chronoscrat&color=orange)
-# Olá!
+## Nathanael Rolim (Ele/Dele | He/Him) <img src="https://komarev.com/ghpvc/?username=chronoscrat&color=orange" align="right" />
 
-Eu me chamo Nathanael Rolim (em algumas comunidades virtuais vou pelo handler de ChronoScrat). Sou estudante de Relações Internacionais na Universidade de São Paulo (USP), com
-um grande interesse em análise de políticas públicas, política pública comparada (internacionalmente), opinião pública e desenvolvimento internacional.
+🏢 Intern @ [dunnhumby](https://github.com/dunnhumby)
 
-Além disso, sou membro do Observatório da Democracia no Mundo (ODEC-USP), onde fui responsável pelo desenvolvimento do site do observatório e por automatização de algumas tarefas
-internas, como a criação de newsletters.
+🏫 Relações Internacionais - USP
 
-Além de programação para aplicações da web e análise de dados estatísticos com R e Python, meu grande interesse é desenvolver ferramentas poderosas usando elementos simples já
-existentes no dia a dia das pessoas. O gerador de newsletters mencionado acima, por exemplo, foi construído tendo como base uma planilha do Google Sheets. Como o Google Suite é
-o office suite padrão da USP e relativamente simples de usar, ele permite a criação/automatização de uma ferramenta um pouco chata com uma interface e usabilidade simples.
+🖥️ R, Python and currently learning Node.js
+
+📫 nathanael.rolim@gmail.com
+
+### Sobre mim
+Eu me chamo Nathanael Rolim (em algumas comunidades virtuais vou pelo handler de ChronoScrat). Sou estudante de Relações Internacionais na Universidade de São Paulo (USP), com um grande interesse em análise de políticas públicas, política pública comparada (internacionalmente), opinião pública e desenvolvimento internacional.
+
+Além disso, sou membro do Observatório da Democracia no Mundo (ODEC-USP), onde fui responsável pelo desenvolvimento do site do observatório e por automatização de algumas tarefas internas, como a criação de newsletters.
+
+Além de programação para aplicações da web e análise de dados estatísticos com R e Python, meu grande interesse é desenvolver ferramentas poderosas usando elementos simples já existentes no dia a dia das pessoas. O gerador de newsletters mencionado acima, por exemplo, foi construído tendo como base uma planilha do Google Sheets. Eu acredito que é sempre possível utilizar ferramentas simples e já existentes para facilitar a vida de todos 🙂
 
 <!---
 ChronoScrat/ChronoScrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
