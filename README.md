@@ -15,6 +15,9 @@ Além disso, sou membro do Observatório da Democracia no Mundo (ODEC-USP), onde
 
 Além de programação para aplicações da web e análise de dados estatísticos com R e Python, meu grande interesse é desenvolver ferramentas poderosas usando elementos simples já existentes no dia a dia das pessoas. O gerador de newsletters mencionado acima, por exemplo, foi construído tendo como base uma planilha do Google Sheets. Eu acredito que é sempre possível utilizar ferramentas simples e já existentes para facilitar a vida de todos 🙂
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronoscrat&layout=compact&hide=html,tex&theme=dark" align="center" />
+</p>
 <!---
 ChronoScrat/ChronoScrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
