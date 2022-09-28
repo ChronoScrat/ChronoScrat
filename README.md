@@ -1,12 +1,14 @@
 ## Nathanael Rolim (Ele/Dele | He/Him) <img src="https://komarev.com/ghpvc/?username=chronoscrat&color=orange" align="right" />
 
-🏢 Intern @ [dunnhumby](https://github.com/dunnhumby)
+🏢 Shopper Insights Client Associate @ [dunnhumby](https://github.com/dunnhumby)
 
 🏫 Relações Internacionais - USP
 
 🖥️ R, Python and currently learning Node.js
 
 📫 nathanael.rolim@gmail.com
+
+📖 [nathanaelrolim on LinkedIn](https://linkedin.com/in/nathanaelrolim)
 
 ### Sobre mim
 Eu me chamo Nathanael Rolim (em algumas comunidades virtuais vou pelo handler de ChronoScrat). Sou estudante de Relações Internacionais na Universidade de São Paulo (USP), com um grande interesse em análise de políticas públicas, política pública comparada (internacionalmente), opinião pública e desenvolvimento internacional.
